@@ -1,0 +1,14 @@
+{
+  "storage_account_name": "sttvsdpadev",
+  "container_name": "tvsdpa",
+  "source_files_path": "sourcefiles",
+  "bronze_file_path": "Bronze",
+  "silver_file_path": "Silver",
+  "gold_file_path": "Gold",
+  "error_file_path": "ErrorFiles",
+  "source_column_count":"30",
+  "source_columns":"OrderDate, ShippingDate, DeliveryDate, DivisionID, DivisionName, DivisionAddress, DivisionPostalCode, DivisionCity, DivisionState, DivisionCountry, DivisionPhone, DealerID, DealerName, DealerAddress, DealerPostalCode, DealerCity, DealerState, DealerCountry, DealerPhone, MarketID, Market, MarketCategoryID, MarketCategory, ProductID, Product, ShipperID, Shipper, Quantity, UnitPrice, Discount"
+  
+
+}
+
