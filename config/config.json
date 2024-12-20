@@ -6,8 +6,11 @@
   "silver_file_path": "Silver",
   "gold_file_path": "Gold",
   "error_file_path": "ErrorFiles",
+  "staging_schema_name":"STG",
+  "staging_table_name":"StagingTVS",
   "source_column_count":"30",
-  "source_columns":"OrderDate, ShippingDate, DeliveryDate, DivisionID, DivisionName, DivisionAddress, DivisionPostalCode, DivisionCity, DivisionState, DivisionCountry, DivisionPhone, DealerID, DealerName, DealerAddress, DealerPostalCode, DealerCity, DealerState, DealerCountry, DealerPhone, MarketID, Market, MarketCategoryID, MarketCategory, ProductID, Product, ShipperID, Shipper, Quantity, UnitPrice, Discount"
+  "source_columns":"OrderDate, ShippingDate, DeliveryDate, DivisionID, DivisionName, DivisionAddress, DivisionPostalCode, DivisionCity, DivisionState, DivisionCountry, DivisionPhone, DealerID, DealerName, DealerAddress, DealerPostalCode, DealerCity, DealerState, DealerCountry, DealerPhone, MarketID, Market, MarketCategoryID, MarketCategory, ProductID, Product, ShipperID, Shipper, Quantity, UnitPrice, Discount",
+  "":""
   
 
 }
